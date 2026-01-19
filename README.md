@@ -90,5 +90,7 @@ Oral-Cancer-Risk-Prediction/
 ```
 <img width="823" height="567" alt="image" src="https://github.com/user-attachments/assets/82697b4a-0b4e-42dc-bcbe-7eee9f06122e" />
 
+<img width="603" height="366" alt="image" src="https://github.com/user-attachments/assets/5769d58b-81e7-4947-bed9-0b0d290b9f06" />
+
 ## Author
 Gowtham Vuppaladhadiam
