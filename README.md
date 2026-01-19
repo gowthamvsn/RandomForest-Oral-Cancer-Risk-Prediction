@@ -88,6 +88,7 @@ Oral-Cancer-Risk-Prediction/
 ├── requirements.txt
 └── .gitignore
 ```
+<img width="823" height="567" alt="image" src="https://github.com/user-attachments/assets/82697b4a-0b4e-42dc-bcbe-7eee9f06122e" />
 
 ## Author
 Gowtham Vuppaladhadiam
